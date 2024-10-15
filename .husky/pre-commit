@@ -1,0 +1,2 @@
+echo "Running git secrets scan..."
+git secrets --scan
